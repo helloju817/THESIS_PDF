@@ -7,4 +7,4 @@
 [C++]젖은 머리카락의 효율적인 표현을 위한 적응형 샘플링 방식 (2022)                    
 
 ### 2) ICT 한이음 멘토링
-[Python]인공지능 기반 전력 수요 예측 방법에 관한 고찰 (2022)
+[Python]인공지능 기반 전력 수요 예측 방법에 관한 고찰 (2022)            :     https://github.com/helloju817/Power-Consumption-Predicting
